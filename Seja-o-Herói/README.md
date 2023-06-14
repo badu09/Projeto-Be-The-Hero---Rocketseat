@@ -1,5 +1,5 @@
 READ-ME:
-Semana Omnistack 11. Finalizado o projeto Be The Hero. O conteúdo passado foi para desenvolvermos uma aplicação 
+Finalizado o projeto Be The Hero. Foi desenvolvido uma aplicação 
 
 Back-end com Website e Mobile que facilita a comunicação entre ONGs e pessoas que podem contribuir para financiar 
 
